@@ -1,0 +1,26 @@
+{
+  "name": "data-structure",
+  "version": "1.0.0",
+  "description": "数据结构与算法的练习",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arguiwu/data-structure.git"
+  },
+  "keywords": [
+    "data-structure"
+  ],
+  "author": "vinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arguiwu/data-structure/issues"
+  },
+  "homepage": "https://github.com/Arguiwu/data-structure#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.0"
+  }
+}
